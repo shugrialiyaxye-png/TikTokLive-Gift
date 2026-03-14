@@ -1,4 +1,4 @@
-# TikTokLive-Gift Bot
+20000# TikTokLive-Gift Bot
 This is a Python script that simulates a keypress or runs a function based on the gift received during a TikTok Live broadcast.
 
 # Installation
